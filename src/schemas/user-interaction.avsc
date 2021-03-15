@@ -1,0 +1,15 @@
+{
+  "name": "schemav1",
+  "type": "record",
+  "namespace": "poc.kafka",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "email",
+      "type": "string"
+    }
+  ]
+}
